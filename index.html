@@ -5,8 +5,11 @@
         <meta charset="utf-8" />
         <title>Пользовательский виджет yatranslate для сайта на чистом js</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="./css/style.css">
+
+        <!-- yatranslate -->
         <script src="./js/yatranslate.js"></script>
+        <link rel="stylesheet" href="./css/yatranslate.css">
+        <!-- END yatranslate -->
 
     </head>
 
@@ -14,10 +17,10 @@
 
         <div class="lang lang_fixed">
             <div id="ytWidget" style="display: none;"></div>
-            <div class="lang__link lang__link_select" data-lang-active="">
+            <div class="lang__link lang__link_select" data-lang-active>
                 <img class="lang__img lang__img_select" src="./images/lang/lang__ru.png" alt="Ru">
             </div>
-            <div class="lang__list" data-lang-list="">
+            <div class="lang__list" data-lang-list>
                 <a class="lang__link lang__link_sub" data-ya-lang="ru">
                     <img class="lang__img" src="./images/lang/lang__ru.png" alt="ru">
                 </a>
@@ -44,6 +47,26 @@
                 <p>Hello World!!!</p>
             </div>
         </section>
+
+        <style>
+            /* Стили для демонстрации */
+            /* Styles for demonstration */
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 100vh;
+                margin: 0;
+                padding: 0;
+                font-family: tahoma;
+            }
+
+            .content {
+                text-align: center;
+                margin: auto;
+            }
+
+        </style>
     </body>
 
 </html>
