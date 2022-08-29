@@ -39,6 +39,14 @@
 </div>
 ```
 
+## Add new lang:
+
+```
+data-ya-lang="{CODE}"
+```
+
+All available languages and their code can be found [here](https://yandex.ru/dev/translate/doc/dg/concepts/api-overview.html).
+
 ### Example
 
 [Demo Page](http://demo.l2banners.ru/yandex-translate-custom-widget)
