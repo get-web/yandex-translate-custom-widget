@@ -50,3 +50,12 @@ All available languages and their code can be found [here](https://yandex.ru/dev
 ### Example
 
 [Demo Page](http://demo.l2banners.ru/yandex-translate-custom-widget)
+
+## More
+
+Sometimes there may be some content on your page that you don't want to
+translate. You can now add translate="no" to any HTML element to prevent
+that element from being translated. For example, you may want to do something
+like:
+
+`Email us at <span translate="no">sales at mydomain dot com</span>`
