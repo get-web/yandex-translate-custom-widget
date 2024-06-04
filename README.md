@@ -59,3 +59,20 @@ that element from being translated. For example, you may want to do something
 like:
 
 `Email us at <span translate="no">sales at mydomain dot com</span>`
+
+
+### Поддержать проект:
+
+Данная модификация предоставляется абсолютно бесплатно, поэтому вы можете
+отправить **благодарность по реквизитам**:
+
+- Visa (usd) - 4149629331519363
+- Visa (uah) - 4731185620908514
+- Binance pay id: 463833061
+- USDT trc-20: TUDPzTVicb51L6sH1KyDVxNx6TJrncN5X7
+- Карта МИР: 2204120117672887
+- https://yoomoney.ru/to/410018011293312
+
+_Любая ваша поддержка это мотивация выкладывать в общий доступ другие наработки
+и поддерживать их._
+
